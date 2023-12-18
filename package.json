@@ -1,0 +1,22 @@
+{
+ "name": "javascript-backend",
+ "version": "1.0.0",
+ "description": "backend for mega project ",
+ "main": "index.js",
+ "type": "module",
+ "scripts": {
+  "dev": "nodemon src/index.js"
+ },
+ "keywords": [
+  "javascript",
+  "backend",
+  "mongoose",
+  "express",
+  "node"
+ ],
+ "author": "Fayaz Laghari",
+ "license": "ISC",
+ "devDependencies": {
+  "nodemon": "^3.0.2"
+ }
+}
